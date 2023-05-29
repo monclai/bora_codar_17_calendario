@@ -1,0 +1,24 @@
+{
+    "name": "bora_codar_17",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@phosphor-icons/react": "^2.0.8",
+        "gitignore": "^0.7.0",
+        "next": "^13.3.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "styled-components": "^5.3.10"
+    }
+}
