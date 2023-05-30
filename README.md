@@ -3,7 +3,7 @@
 <h1 align="center"> Bora Codar 17 - Calendário </h1>
 
 ![Capa - BoraCodar 14 - Calendário](https://github.com/monclai/bora_codar_17_calendario/assets/44307789/77e384ce-a852-4e0d-b9ef-978b7663647c#vitrinedev)
-![Capa - BoraCodar 14 - Calendário](https://github.com/monclai/bora_codar_17_calendario/assets/44307789/03fc7fd5-4b80-4c9c-84a8-2a5003875a8f#vitrinedev)
+![Capa-2 - BoraCodar 14 - Calendário](https://github.com/monclai/bora_codar_17_calendario/assets/44307789/03fc7fd5-4b80-4c9c-84a8-2a5003875a8f)
 
 
 ![javascript](https://img.shields.io/badge/LANGUAGE-javascript-yellow)
